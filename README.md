@@ -1,9 +1,9 @@
 # Simple Learning Java
 
-This directory contains my code practice from the [roadmap.sh](https://roadmap.sh/java) projects as I continue learning Java.
+This directory contains my code practice from the (https://roadmap.sh/java) projects as I continue learning Java.
 
 ## 1. *Number Guessing Game*
-The steps will assume you have, set up jvm and jdk in your terminal, and exported the right $PATH, if you haven't consult these resources for help:
+The steps will assume you have, set up jvm and jdk in your terminal, and exported the right $PATH, if you haven't consult these resources for assistance:
 - [Windows](https://youtu.be/-O4QVijnA7Y?si=p3SL-wvHD-y-jURq)
 - [Ubuntu](https://youtu.be/vVrIDJ--GOA?si=xMPAZxpuH4ozggsV.)
 ### *Step one*
