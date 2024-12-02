@@ -15,3 +15,9 @@ After creating the .class file, execute the program using:
 
 ### Screenshot
 [Number Guessing Game Screenshot from the terminal.](images/numberguessinggame.png)
+
+## 2. *Task Tracking*
+***Haven't followed complete instructions, recheck later.***  
+Compilation, similar to the one on top *Number Guessing Game*.
+### Screenshot
+[Task Tracking Screenshot from the terminal.](images/tasktracking.png)
